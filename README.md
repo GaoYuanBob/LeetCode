@@ -7,6 +7,7 @@ My resolutions for leetcode problems
 ## Medium
 * [2. Add Two Numbers](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/2.%20Add%20Two%20Numbers.md)
 * [3. Longest Substring Without Repeating Characters](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+* [91. Decode Ways](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/91.%20Decode%20Ways.md)
 * [468. Validate IP Address](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/468.%20Validate%20IP%20Address.md)
 * [1049. Last Stone Weight II](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1049.%20Last%20Stone%20Weight%20II.md)
 * [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)
