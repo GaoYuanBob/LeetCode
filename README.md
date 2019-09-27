@@ -1,5 +1,6 @@
 # LeetCode
 My resolutions for leetcode problems
+个人博客主页：https://blog.csdn.net/Bob__yuan
 
 ## Easy
 * [1. Two Sum](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/1.%20Two%20Sum.md)
