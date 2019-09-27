@@ -7,7 +7,7 @@ My resolutions for leetcode problems
 ## Medium
 * [2. Add Two Numbers【链表正向相加】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/2.%20Add%20Two%20Numbers%E3%80%90%E9%93%BE%E8%A1%A8%E6%AD%A3%E5%90%91%E7%9B%B8%E5%8A%A0%E3%80%91.md)
 * [3. Longest Substring Without Repeating Characters](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
-* [91. Decode Ways](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/91.%20Decode%20Ways.md)
+* [91. Decode Ways【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/91.%20Decode%20Ways.md)
 * [148. Sort List (Merge Sort)](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/148.%20Sort%20List%20(Merge%20Sort).md)
 * [468. Validate IP Address](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/468.%20Validate%20IP%20Address.md)
 * [1049. Last Stone Weight II](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1049.%20Last%20Stone%20Weight%20II.md)
