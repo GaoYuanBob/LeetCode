@@ -1,0 +1,48 @@
+### [639. Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/)
+
+> A message containing letters from A-Z is being encoded to numbers using the following mapping way:\
+> ‘A’ -> 1\
+> ‘B’ -> 2\
+> …\
+> ‘Z’ -> 26\
+> Beyond that, now the encoded string can also contain the character ‘\*’, which can be treated as one of the numbers from 1 to 9.\
+> Given the encoded message containing digits and the character ‘\*’, return the total number of ways to decode it.\
+> Also, since the answer may be very large, you should return the output mod 109 + 7.\
+> \
+> Input: “\*”&emsp;Output: 9\
+> Explanation: The encoded message can be decoded to the string: “A”, “B”, “C”, “D”, “E”, “F”, “G”, “H”, “I”.\
+> \
+> Input: “1\*” Output: 9 + 9 = 18
+
+**Solution:**
+
+&emsp;&emsp;比 [91. Decode Ways](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/91.%20Decode%20Ways.md) 多了一个 `'*'`，来表示任意字符。
+```cpp
+int numDecodings(string s) {
+    if (s.empty() || s[0] == '0') return 0;
+    const int MOD = 1000000007;
+    long long pre1 = s[0] == '*' ? 9 : 1, pre2 = 1;
+    for(size_t i = 1; i < s.length(); ++i) {
+        const auto pre1_cpy = pre1;	// 保存为后边修改 m2 = m1;
+        if(s[i] == '*') {
+            pre1 *= 9;	// '*' 表示 1-9
+            if (s[i - 1] == '1')
+                pre1 = (pre1 + 9 * pre2) % MOD;	 // 11~19
+            else if(s[i - 1] == '2')
+                pre1 = (pre1 + 6 * pre2) % MOD;	 // 21~26
+            else if (s[i - 1] == '*')
+                pre1 = (pre1 + 15 * pre2) % MOD; // 9 + 6 = 15
+        }
+        else {
+            if (s[i] == '0')
+                pre1 = 0;
+            if (s[i - 1] == '1' || (s[i - 1] == '2' && s[i] <= '6'))
+                pre1 = (pre1 + pre2) % MOD;
+            else if (s[i - 1] == '*')
+                pre1 = (pre1 + (s[i] <= '6' ? 2 : 1) * pre2) % MOD;
+        }
+        pre2 = pre1_cpy;
+    }
+    return pre1;
+}
+```
