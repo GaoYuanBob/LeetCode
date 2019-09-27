@@ -5,7 +5,7 @@ My resolutions for leetcode problems
 * [1. Two Sum](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/1.%20Two%20Sum.md)
 
 ## Medium
-* [2. Add Two Numbers](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/2.%20Add%20Two%20Numbers.md)
+* [2. Add Two Numbers【链表正向相加】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/2.%20Add%20Two%20Numbers%E3%80%90%E9%93%BE%E8%A1%A8%E6%AD%A3%E5%90%91%E7%9B%B8%E5%8A%A0%E3%80%91.md)
 * [3. Longest Substring Without Repeating Characters](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 * [91. Decode Ways](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/91.%20Decode%20Ways.md)
 * [148. Sort List (Merge Sort)](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/148.%20Sort%20List%20(Merge%20Sort).md)
