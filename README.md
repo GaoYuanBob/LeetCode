@@ -1,5 +1,5 @@
 # LeetCode
-My resolutions for leetcode problems
+My resolutions for leetcode problems\
 个人博客主页：https://blog.csdn.net/Bob__yuan
 
 ## Easy
