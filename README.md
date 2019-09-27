@@ -11,6 +11,7 @@ My resolutions for leetcode problems
 * [148. Sort List【Merge Sort】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/148.%20Sort%20List%20(Merge%20Sort).md)
 * [468. Validate IP Address](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/468.%20Validate%20IP%20Address.md)
 * [1049. Last Stone Weight II【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1049.%20Last%20Stone%20Weight%20II.md)
+* [1155. Number of Dice Rolls With Target Sum【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum%E3%80%90DP%E3%80%91.md)
 * [1190. Reverse Substrings Between Each Pair of Parentheses【stack】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)
 * [1191. K-Concatenation Maximum Sum](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1191.%20K-Concatenation%20Maximum%20Sum.md)
 
