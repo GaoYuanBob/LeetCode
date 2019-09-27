@@ -17,3 +17,4 @@ My resolutions for leetcode problems
 
 ## Hard
 * [4. Median of Two Sorted Arrays](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+* [72. Edit Distance【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/72.%20Edit%20Distance%E3%80%90DP%E3%80%91.md)
