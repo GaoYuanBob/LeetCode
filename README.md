@@ -8,7 +8,8 @@ My resolutions for leetcode problems\
 ## Medium
 * [2. Add Two Numbers【链表正向相加】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/2.%20Add%20Two%20Numbers%E3%80%90%E9%93%BE%E8%A1%A8%E6%AD%A3%E5%90%91%E7%9B%B8%E5%8A%A0%E3%80%91.md)
 * [3. Longest Substring Without Repeating Characters](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
-* [33. Search in Rotated Sorted Array【旋转数组中查找，无重复元素】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+* [33. Search in Rotated Sorted Array【旋转数组中查找，无重复】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+* [81. Search in Rotated Sorted Array II【旋转数组中查找，有重复】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)
 * [91. Decode Ways【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/91.%20Decode%20Ways.md)
 * [139. Word Break【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/139.%20Word%20Break.md)
 * [148. Sort List【Merge Sort】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/148.%20Sort%20List%20(Merge%20Sort).md)
