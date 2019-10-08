@@ -14,6 +14,7 @@ My resolutions for leetcode problems\
 * [139. Word Break【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/139.%20Word%20Break.md)
 * [148. Sort List【Merge Sort】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/148.%20Sort%20List%20(Merge%20Sort).md)
 * [153. Find Minimum in Rotated Sorted Array【旋转数组最小值，无重复】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+* [154. Find Minimum in Rotated Sorted Array II【旋转数组最小值，有重复】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md)
 * [166. Fraction to Recurring Decimal](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/166.%20Fraction%20to%20Recurring%20Decimal.md)
 * [468. Validate IP Address](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/468.%20Validate%20IP%20Address.md)
 * [1049. Last Stone Weight II【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1049.%20Last%20Stone%20Weight%20II.md)
