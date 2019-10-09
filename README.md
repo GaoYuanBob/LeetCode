@@ -4,6 +4,7 @@ My resolutions for leetcode problems\
 
 ## Easy
 * [1. Two Sum](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/1.%20Two%20Sum.md)
+* [766. Toeplitz Matrix](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/766.%20Toeplitz%20Matrix.md)
 
 ## Medium
 * [2. Add Two Numbers【链表正向相加】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/2.%20Add%20Two%20Numbers%E3%80%90%E9%93%BE%E8%A1%A8%E6%AD%A3%E5%90%91%E7%9B%B8%E5%8A%A0%E3%80%91.md)
