@@ -4,6 +4,7 @@ My resolutions for leetcode problems\
 
 ## Easy
 * [1. Two Sum](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/1.%20Two%20Sum.md)
+* [206. Reverse Linked List【单链表翻转】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/206.%20Reverse%20Linked%20List.md)
 * [299. Bulls and Cows](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/299.%20Bulls%20and%20Cows.md)
 * [766. Toeplitz Matrix](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/766.%20Toeplitz%20Matrix.md)
 
