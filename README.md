@@ -41,3 +41,4 @@ My resolutions for leetcode problems\
 * [472. Concatenated Words【DP】【DFS】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/472.%20Concatenated%20Words%E3%80%90DP%E3%80%91%E3%80%90DFS%E3%80%91.md)
 * [639. Decode Ways II【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/639.%20Decode%20Ways%20II.md)
 * [857. Minimum Cost to Hire K Workers【大根堆】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.md)
+* [1235. Maximum Profit in Job Scheduling【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)
