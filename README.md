@@ -33,6 +33,7 @@ My resolutions for leetcode problems\
 * [1208. Get Equal Substrings Within Budget](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1208.%20Get%20Equal%20Substrings%20Within%20Budget.md)
 * [1218. Longest Arithmetic Subsequence of Given Difference](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.md)
 * [1219. Path with Maximum Gold【DFS】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1219.%20Path%20with%20Maximum%20Gold.md)
+* [1222. Queens That Can Attack the King](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1222.%20Queens%20That%20Can%20Attack%20the%20King.md)
 * [1227. Airplane Seat Assignment Probability【概率题】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1227.%20Airplane%20Seat%20Assignment%20Probability%E3%80%90%E6%A6%82%E7%8E%87%E9%A2%98%E3%80%91.md)
 
 ## Hard
