@@ -28,6 +28,7 @@ My resolutions for leetcode problems\
 * [236. Lowest Common Ancestor of a Binary Tree【DFS】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
 * [337. House Robber III【DFS】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/337.%20House%20Robber%20III.md)
 * [468. Validate IP Address](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/468.%20Validate%20IP%20Address.md)
+* [554. Brick Wall](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/554.%20Brick%20Wall.md)
 * [881. Boats to Save People](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/881.%20Boats%20to%20Save%20People.md)
 * [958. Check Completeness of a Binary Tree【判断完全二叉树】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.md)
 * [1049. Last Stone Weight II【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/1049.%20Last%20Stone%20Weight%20II.md)
