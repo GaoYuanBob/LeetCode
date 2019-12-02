@@ -4,6 +4,7 @@ My resolutions for leetcode problems\
 
 ## Easy
 * [1. Two Sum](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/1.%20Two%20Sum.md)
+* [7. Reverse Integer](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/7.%20Reverse%20Integer.md)
 * [198. House Robber【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/198.%20House%20Robber.md)
 * [206. Reverse Linked List【单链表翻转】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/206.%20Reverse%20Linked%20List.md)
 * [234. Palindrome Linked List【判断回文单链表】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/234.%20Palindrome%20Linked%20List.md)
@@ -13,6 +14,8 @@ My resolutions for leetcode problems\
 ## Medium
 * [2. Add Two Numbers【链表正向相加】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/2.%20Add%20Two%20Numbers%E3%80%90%E9%93%BE%E8%A1%A8%E6%AD%A3%E5%90%91%E7%9B%B8%E5%8A%A0%E3%80%91.md)
 * [3. Longest Substring Without Repeating Characters](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+* [5. Longest Palindromic Substring](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/5.%20Longest%20Palindromic%20Substring.md)
+* [6. ZigZag Conversion](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/6.%20ZigZag%20Conversion.md)
 * [33. Search in Rotated Sorted Array【旋转数组中查找，无重复】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 * [62. Unique Paths【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/62.%20Unique%20Paths.md)
 * [63. Unique Paths II【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Medium/63.%20Unique%20Paths%20II.md)
