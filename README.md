@@ -48,6 +48,7 @@ My resolutions for leetcode problems\
 
 ## Hard
 * [4. Median of Two Sorted Arrays](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+* [10. Regular Expression Matching](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/10.%20Regular%20Expression%20Matching.md)
 * [72. Edit Distance【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/72.%20Edit%20Distance%E3%80%90DP%E3%80%91.md)
 * [140. Word Break II【DP】【DFS】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/140.%20Word%20Break%20II%E3%80%90DP%E3%80%91%E3%80%90DFS%E3%80%91.md)
 * [472. Concatenated Words【DP】【DFS】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Hard/472.%20Concatenated%20Words%E3%80%90DP%E3%80%91%E3%80%90DFS%E3%80%91.md)
