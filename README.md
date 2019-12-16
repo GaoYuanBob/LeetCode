@@ -5,6 +5,7 @@ My resolutions for leetcode problems\
 ## Easy
 * [1. Two Sum](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/1.%20Two%20Sum.md)
 * [7. Reverse Integer](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/7.%20Reverse%20Integer.md)
+* [9. Palindrome Number](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/9.%20Palindrome%20Number.md)
 * [198. House Robber【DP】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/198.%20House%20Robber.md)
 * [206. Reverse Linked List【单链表翻转】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/206.%20Reverse%20Linked%20List.md)
 * [234. Palindrome Linked List【判断回文单链表】](https://github.com/GaoYuanBob/LeetCode/blob/master/LeetCode%20Problems/Easy/234.%20Palindrome%20Linked%20List.md)
